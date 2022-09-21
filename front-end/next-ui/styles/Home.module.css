@@ -16,29 +16,15 @@
 }
 
 .header h2 {
-  font-size: 1.5rem;
-}
-
-.header h3 {
   font-size: 1.25rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 1rem;
 }
 
-.header a {
-  background-color: var(--yellow-highlight);
-  padding: 0.5rem;
-  display: inline-flex;
-}
-
-.main {
+.home main {
   text-align: center;
 }
 
-.main button {
-  padding: 1rem;
+.home main button {
+  padding: 0.75rem;
   border: 1px solid #999;
   outline: 0;
   cursor: pointer;
@@ -48,7 +34,7 @@
   transition: background-color 2s, color 2s;
 }
 
-.main button:hover {
+.home main button:hover {
   background-color: var(--green);
   color: white;
 }

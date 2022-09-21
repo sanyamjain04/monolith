@@ -1,0 +1,8 @@
+email_type	recipient_email	recipient_external_id	accounts	source	timestamp	was_email_sent	error_code	error_message
+assigned	frankkopas@veryfi.com	110406547	5837820584(medium)|5837778490(medium)|6093987732(low)|7311489976(low)	hubspot	2022-09-21T15:16:53.485871	True		
+assigned	mauricio@veryfi.com	117458829	8418155361(low)|6817038180(low)|9072421241(medium)	hubspot	2022-09-21T15:16:54.098467	True		
+assigned	perlaarellanes@veryfi.com	128982432		hubspot	2022-09-21T15:16:54.407624	True		
+assigned	bankstaylor@veryfi.com	173528119	8434478473(medium)|8270011396(low)	hubspot	2022-09-21T15:16:55.062601	True		
+assigned	jamesharris@veryfi.com	176340271	8976192822(high)|8786177450(medium)|8437480985(high)|8881579627(medium)	hubspot	2022-09-21T15:16:55.761337	True		
+assigned	neilgrant@veryfi.com	183116168	9025247787(low)|8989518093(medium)|7311634811(medium)|9256381069(low)	hubspot	2022-09-21T15:16:56.379016	True		
+assigned	craigkleinman@getveryfi.com	96215586	8289554523(high)|7339835704(high)|9422263375(low)	hubspot	2022-09-21T15:16:57.007265	True		
